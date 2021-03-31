@@ -1,12 +1,12 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: yoon-developer
+description: Yoon Developer
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Yoon Developer
-user_description:
+username: Yoon
+user_description: 수정중
 user_title: Software Developer
 email: yoondev93@gmail.com
 twitter_username:
