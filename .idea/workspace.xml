@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55d86e31-72c6-4738-be66-bf4b093673b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qV8hsOqvfXvopunVsp1n959kgU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/src/styles/lib" />
+      <recent name="$PROJECT_DIR$/_includes" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$PROJECT_DIR$/../.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55d86e31-72c6-4738-be66-bf4b093673b1" name="Default Changelist" comment="" />
+      <created>1617153518946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617153518946</updated>
+      <workItem from="1617153522581" duration="14446000" />
+      <workItem from="1617236826499" duration="8000" />
+      <workItem from="1617335121138" duration="7540000" />
+    </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1617157703432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617157703432</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: Change Username">
+      <created>1617179740881</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617179740881</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: Change Theme">
+      <created>1617345069065</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617345069065</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <MESSAGE value="feat: Change Username" />
+    <MESSAGE value="feat: Change Theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Change Theme" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="644" y="345" width="621" height="412" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617169327484">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="644" y="345" width="621" height="412" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617169327484" />
+    <state x="693" y="302" width="524" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617162214418">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="693" y="302" width="524" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617162214418" />
+    <state x="443" y="64" width="1393" height="976" key="CommitChangelistDialog2" timestamp="1617345186175">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="443" y="64" width="1393" height="976" key="CommitChangelistDialog2/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617345186175" />
+    <state x="182" y="116" width="1536" height="870" key="DiffContextDialog" timestamp="1617340647444">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="182" y="116" width="1536" height="870" key="DiffContextDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617340647444" />
+    <state width="1874" height="255" key="GridCell.Tab.0.bottom" timestamp="1617180209263">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="255" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617180209263" />
+    <state width="1874" height="255" key="GridCell.Tab.0.center" timestamp="1617180209263">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="255" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617180209263" />
+    <state width="1874" height="255" key="GridCell.Tab.0.left" timestamp="1617180209263">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="255" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617180209263" />
+    <state width="1874" height="255" key="GridCell.Tab.0.right" timestamp="1617180209263">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="255" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617180209263" />
+    <state x="449" y="188" key="SettingsEditor" timestamp="1617165591805">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="188" key="SettingsEditor/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617165591805" />
+    <state x="555" y="285" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1617345194850">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="285" width="800" height="534" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617345194850" />
+    <state x="100" y="127" width="1720" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1617340747990">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1720" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617340747990" />
+    <state x="111" y="183" width="1720" height="788" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1617340762038">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="111" y="183" width="1720" height="788" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617340762038" />
+    <state x="614" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1617236827273">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="614" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617236827273" />
+    <state x="1920" y="131" width="1406" height="773" key="dock-window-1" timestamp="1617158765698">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1920" y="131" width="1406" height="773" key="dock-window-1/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617158765698" />
+    <state x="682" y="268" width="1129" height="554" key="find.popup" timestamp="1617343882013">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="682" y="268" width="1129" height="554" key="find.popup/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617343882013" />
+    <state x="624" y="254" width="672" height="677" key="run.anything.popup" timestamp="1617179360871">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="254" width="672" height="677" key="run.anything.popup/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617179360871" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1617339696408">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1617339696408" />
+  </component>
+</project>
