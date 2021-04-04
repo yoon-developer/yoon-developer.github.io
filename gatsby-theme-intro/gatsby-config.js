@@ -1,6 +1,5 @@
 module.exports = ({
-  basePath = "/",
-  url = "https://yoon-developer.github.io",
+  basePath = "https://yoon-developer.github.io/",
   contentPath = "content/",
   showThemeLogo = false,
   theme = "dark-green",
