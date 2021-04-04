@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     description: "Personal page of John Doe",
-    locale: "en",
-    title: "John Doe",
+    locale: "ko",
+    title: "yoon-developer",
   },
   plugins: [
     {
@@ -11,7 +11,7 @@ module.exports = {
         basePath: "/",
         contentPath: "content/",
         showThemeLogo: true,
-        theme: "classic",
+        theme: "dark-green",
       },
     },
   ],
