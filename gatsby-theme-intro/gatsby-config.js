@@ -1,15 +1,15 @@
 module.exports = ({
-  basePath = "https://yoon-developer.github.io/",
+  basePath = "/",
   contentPath = "content/",
-  showThemeLogo = false,
-  theme = "dark-green",
+  showThemeLogo = true,
+  theme = "classic",
 }) => {
   return {
     siteMetadata: {
-      description: "Personal page",
-      locale: "ko",
+      description: "Personal page of John Doe",
+      locale: "en",
       showThemeLogo,
-      title: "yoon-developer",
+      title: "John Doe",
       formspreeEndpoint: "https://formspree.io/f/{your-id}",
     },
     plugins: [
