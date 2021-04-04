@@ -2,124 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f8ba26a-9ea0-4918-8bae-195b6b4f8e8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gatsby-theme-intro/content/images/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/content/images/profile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/disqus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/pagination.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/categories.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-01-08-welcome-to-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/animate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/monokai.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/uno.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/welcome-to-jekyll/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/categories/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/fonts/foundation-icons/foundation-icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/fonts/foundation-icons/foundation-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/fonts/foundation-icons/foundation-icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/fonts/foundation-icons/foundation-icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/humans.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/cover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/android-chrome-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/android-chrome-36x36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/android-chrome-48x48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/android-chrome-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/android-chrome-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/apple-touch-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/apple-touch-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/apple-touch-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/apple-touch-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/apple-touch-icon-180x180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/apple-touch-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/apple-touch-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/apple-touch-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/apple-touch-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/apple-touch-icon-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/favicon-194x194.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/favicon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/mstile-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/mstile-310x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/mstile-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/mstile-70x70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/favicons/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/foundation-icons/foundation-icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/foundation-icons/foundation-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/foundation-icons/foundation-icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/foundation-icons/foundation-icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/humans.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/android-chrome-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/android-chrome-36x36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/android-chrome-48x48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/android-chrome-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/android-chrome-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-180x180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/favicon-194x194.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/favicon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/mstile-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/mstile-310x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/mstile-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/mstile-70x70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,14 +47,34 @@
       <option name="presentableId" value="Default" />
       <updated>1617471072979</updated>
       <workItem from="1617471074479" duration="3836000" />
-      <workItem from="1617511755337" duration="1508000" />
+      <workItem from="1617511755337" duration="1785000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: Change Theme">
+      <created>1617513507302</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617513507302</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: Change Theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Change Theme" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="553" y="27" key="CommitChangelistDialog2" timestamp="1617513505795">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="27" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1617513505795" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1617513509612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617513509612" />
     <state x="428" y="224" width="710" height="570" key="find.popup" timestamp="1617474153143">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
