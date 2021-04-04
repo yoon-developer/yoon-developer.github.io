@@ -1,12 +1,13 @@
 module.exports = ({
   basePath = "/",
+  url = "https://yoon-developer.github.io",
   contentPath = "content/",
   showThemeLogo = false,
   theme = "dark-green",
 }) => {
   return {
     siteMetadata: {
-      description: "Personal page of John Doe",
+      description: "Personal page",
       locale: "ko",
       showThemeLogo,
       title: "yoon-developer",
