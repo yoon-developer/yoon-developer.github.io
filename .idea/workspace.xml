@@ -12,4 +12,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../msa" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="350" y="29" key="CommitChangelistDialog2" timestamp="1617516860216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="350" y="29" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1617516860216" />
+    <state x="345" y="251" key="Vcs.Push.Dialog.v2" timestamp="1617516863811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="345" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617516863811" />
+  </component>
 </project>
