@@ -6,13 +6,12 @@
   "author": "Wojciech Kocjan <wojciech@kocjan.net>",
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
-    "clean": "gatsby clean",
-    "develop": "gatsby develop"
+    "deploy": "gatsby build && gh-pages -d public -b master"
   },
   "dependencies": {
     "@wkocjan/gatsby-theme-intro": "*",
     "gatsby": "^3.0.0",
+    "gatsby-plugin-postcss": "^4.2.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
