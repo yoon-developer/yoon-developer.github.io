@@ -3,7 +3,7 @@ repository: sproogen/modern-resume-theme
 favicon: images/profile.jpg
 
 #(options: true, false, never)
-darkmode: false
+darkmode: true
 
 # Personal info
 name: Yoon
@@ -60,6 +60,8 @@ footer_show_references: true
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
 remote_theme: sproogen/modern-resume-theme
+
+livereload: true
 
 
 exclude:

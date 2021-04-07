@@ -30,6 +30,9 @@
     - Git 관리
     - Jenkins 사용하여 빌드 및 배포
     - 신규 버전 Network 기능 설계
+      - Spring Cloud (Zuul, Hystrix, Eureka, Config)
+      - JPA (ORM 구조)
+      - Spring Batch
 
 - layout: top
   name: 클라우드 기반 API 개발 및 개선
