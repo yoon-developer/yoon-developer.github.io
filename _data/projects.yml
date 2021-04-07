@@ -17,19 +17,20 @@
 
     > 상세 내용
 
-    - Iptables, Openvswitch 기반 적응형 IP(공인 아이피 연결) 기능 연구 및 기능 개선
-    - Iptables 기반 Network 보안 기능 연구 및 개선
-    - HAProxy 기반 로드밸런싱 기능 연구 및 기능 개선
-    - 가상 머신 상태 체크를 통한 오토스케일링(scale-in, scale-out) 기능 연구 및 기능 개선
-    - OpenvSwitch 기반 가상 네트워크 연결 기능 연구 및 기능 개선
-    - Qemu-kvm-ev를 통한 가상화 관련 기술 연구 및 기능 개선
-    - 가상 머신 HA(High Availability) 기능 연구 및 기능 개선
+    - 가상머신 적응형 IP(공인 아이피) 연결 기능 연구 및 개발
+    - Network 보안 기능 연구 및 개발
+    - 로드밸런싱 기능 연구 및 기능 개발
+    - 가상 머신 상태체크를 통한 오토스케일링(scale-in, scale-out) 기능 연구 및 개발
+    - 가상 네트워크 기능 연구 및 개발
+    - 가상화 관련 기술 연구 및 기능 개발
+    - 가상 머신 HA(High Availability) 기능 연구 및 개발
     - VMware NSX-T를 사용하여 가상 네트워크 연동
     - Window Hyper-V를 사용하여 가상 머신 제어 기능 연동
     - Go 언어 기반 가상 머신 이미지 checksum 기능 개발 (CLI 기반)
     - Git 관리
     - Jenkins 사용하여 빌드 및 배포
     - 신규 버전 Network 기능 설계
+    - 기술 도입 예제 코드 작성 및 팀원 기술 공유
       - Spring Cloud (Zuul, Hystrix, Eureka, Config)
       - JPA (ORM 구조)
       - Spring Batch
